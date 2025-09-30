@@ -16,7 +16,7 @@ export const AboutSection = () => {
                         </h3>
 
                         <p className="text-muted-foreground">
-                            Current a third-year computer science student excited to learn everything comp-sci!
+                            Currently third-year computer science student excited to learn everything comp-sci!
                         </p>
 
                         <p className="text-muted-foreground">
