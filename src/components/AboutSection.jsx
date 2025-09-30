@@ -16,11 +16,11 @@ export const AboutSection = () => {
                         </h3>
 
                         <p className="text-muted-foreground">
-                            Currently third-year computer science student excited to learn everything comp-sci!
+                            Currently a third-year computer science student excited to learn everything comp-sci!
                         </p>
 
                         <p className="text-muted-foreground">
-                            I've been enjoying learning about Machine Learning, Systems, and Web Development. In my 5th semester, and enjoying subjects like Automata, ML, Network Based Computing, and Optimization this semester. Also reading on distributed systems. Previously enjoyed OS, DBMS, Signals and Systems, Linear Algebra, Probability and Statistics, DSA, and more.
+                            I've been enjoying learning about Machine Learning, Systems, and Web Development. In my 5th semester, and enjoying subjects like Automata, ML, Network Based Computing, and Optimization. Reading on distributed systems. Previously enjoyed OS, DBMS, Signals and Systems, Linear Algebra, Probability and Statistics, DSA, and more.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
